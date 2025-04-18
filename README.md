@@ -1,4 +1,4 @@
-# 🏠 Part A: Airbnb Price Prediction Project and Insights
+# 🏠Airbnb Price Prediction Project and Insights
 
 **Objective:** Predict Airbnb listing prices using various property features.
 
